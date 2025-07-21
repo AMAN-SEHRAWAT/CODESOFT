@@ -50,7 +50,11 @@ Hardcoded exchange rates.
 Converts entered amount based on selected currencies.
 
 Author
+
 AMAN SEHRAWAT
+
 Java Developer Intern @ CodSoft
+
 LinkedIn: linkedin.com/in/aman-sehrawat-a10680370
+
 Email: sehrawataman1004@gmail.com
